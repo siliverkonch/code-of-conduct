@@ -1,7 +1,7 @@
 # Django Code of Conduct
 
-On 31st July 2013, [Django community adopted a Code of
-Conduct](https://www.djangoproject.com/weblog/2013/jul/31/django-adopts-code-of-conduct/).
+On 14.10.2024, [Django community adopted a Code of
+Conduct](https://www.djangoproject.com/weblog/2024/oct/14/django-adopts-code-of-conduct/).
 This documentation aims to transparently describe how the Django Code of Conduct
 committee enforces the Code of Conduct and how it all works behind the scenes. 
 
